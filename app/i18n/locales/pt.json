@@ -1,0 +1,13 @@
+{
+	"Wrong password": "Senha incorreta",
+	"Could not find user": "Não foi possível encontrar usuário",
+	"Provider not found": "Nenhum motorista encontrado",
+	"Successful": "Operação realizada com sucesso",
+	"Required": "Preencha todos os campos obrigatórios",
+	"Invalid date": "Data inválida",
+	"Super Hero not found": "Super Hero not found",
+	"Super Power not found": "Super Power not found",
+	"Can't delete super hero with super power": "Can't delete super hero with super power",
+	"Username already in use": "Username already in use",
+	"User not found": "User not found"
+}
